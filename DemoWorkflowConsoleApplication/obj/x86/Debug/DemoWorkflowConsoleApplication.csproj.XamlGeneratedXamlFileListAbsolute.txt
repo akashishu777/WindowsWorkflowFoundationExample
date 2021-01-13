@@ -1,0 +1,6 @@
+obj\x86\Debug\Workflow1.g.xaml
+obj\x86\Debug\FlowChartWorkFlow.g.xaml
+obj\x86\Debug\StateMachineWorkFlow.g.xaml
+obj\x86\Debug\DemoWorkflowConsoleApplication_Workflow1_BeforeInitializeComponentHelper.txt
+obj\x86\Debug\DemoWorkflowConsoleApplication_FlowChartWorkFlow_BeforeInitializeComponentHelper.txt
+obj\x86\Debug\DemoWorkflowConsoleApplication_StateMachineWorkFlow_BeforeInitializeComponentHelper.txt

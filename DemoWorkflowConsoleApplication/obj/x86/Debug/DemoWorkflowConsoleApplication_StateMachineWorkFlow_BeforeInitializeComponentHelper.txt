@@ -1,0 +1,2 @@
+StateMachineWorkFlow.g.xaml
+XamlStaticHelperNamespace._XamlStaticHelper
